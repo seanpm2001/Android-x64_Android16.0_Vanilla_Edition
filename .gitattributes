@@ -40,6 +40,10 @@
 *.h linguist-detectable=true
 *.h linguist-documentation=false
 *.h linguist-language=C
+# Assembly source file
+*.asm linguist-detectable=true
+*.asm linguist-documentation=false
+*.asm linguist-language=Assembly
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -175,7 +179,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Wednesday, August 21st at 03:41 pm PST)
-# Line count (including blank lines and compiler line): 182
+# File version: 6 (2024, Thursday, November 28th at 11:23 pm PST)
+# Line count (including blank lines and compiler line): 186
 
 # End of script
